@@ -6,7 +6,10 @@
 
 > 작성자: 전상규
 
-<img src = "./../../src/global_warming_logo.png" width = 50%>
+<p>
+	<img src = "./../src/global_warming_logo.png" width = 50%>
+</p>
+
 ## 종착점
 
 ### 목적

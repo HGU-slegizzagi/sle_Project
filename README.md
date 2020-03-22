@@ -1,6 +1,6 @@
 
 
-![sleProjectLogo](./../src/slegizzagi_proejct_logo_2.png)
+![sleProjectLogo](./src/slegizzagi_proejct_logo_2.png)
 
 # 20-1 SleProject
 

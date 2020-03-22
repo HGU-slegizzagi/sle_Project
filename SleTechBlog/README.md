@@ -36,7 +36,9 @@
 
 > 아래 내용을 통합하고, React js로 code 작성하고, sass 파일로 꾸미자!
 
-<center><img src="./../../src/architecture.png" alt="architecture" /></center>
+<p>
+  <img src="./../src/architecture.png" alt="architecture" />
+</p>
 
 
 
