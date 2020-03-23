@@ -1,4 +1,4 @@
-Tutorial   MarkDown작성법
+MarkDown작성법
 ===============
 # 1. Git과 마크다운에 관하여
 ## 1.1. Github란?
