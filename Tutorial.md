@@ -25,25 +25,28 @@ Community로 사용하려고 합니다.!
 
 ```
 내용
-```
+```  
+한 줄 주석은 
+\`을 사용하면 됩니다.
+` 내용
 
 
 ## 2.1. 헤더Headers
 * 큰제목과 작은제목 : 각 문서(md)는 하나의 큰 제목(문서 제목)과 하나의 작은 제목(문서 부제목)을 가질 수 있습니다.
 ```
-Sample Line
+큰 제목
 ======================    
 
-Sample Line
+작은 제목
 ----------------------
 ```
 
 * 실제로 위의 Line을 위 회색박스의 내용을 그대로 Ctrl+c -> Ctrl+v를 해보면 다음과 같습니다.
 
-Sample Line
+큰 제목
 ======================    
 
-Sample Line
+작은 제목
 ----------------------
 
 * 글머리 : 글머리는 총 1~6까지 있습니다. 
@@ -63,6 +66,80 @@ Sample Line
 #### This is a H4
 ##### This is a H5
 ###### This is a H6
+
+## 2.2. BlockQuote
+이메일에서 사용하는 ```>``` 블럭인용문자를 이용합니다.
+```
+> This is a first blockqute.
+>	> This is a second blockqute.
+>	>	> This is a third blockqute.
+```
+* 실제로 위의 Line을 위 회색박스의 내용을 그대로 Ctrl+c -> Ctrl+v를 해보면 다음과 같습니다.(다음 부터는 이 주석을 달지 않지만 동일합니다!)
+> This is a first blockqute.
+>	> This is a second blockqute.
+>	>	> This is a third blockqute.
+
+이 안에서는 다른 마크다운 요소를 포함할 수 있습니다.
+> ### This is a H3
+> * List
+>	```
+>	code
+>	```
+
+## 2.3. 목록
+### ● 순서있는 목록(번호)
+순서있는 목록은 숫자와 점을 사용한다.
+```
+1. 첫번째
+2. 두번째
+3. 세번째
+```
+1. 첫번째
+2. 두번째
+3. 세번째
+
+
+## 2.4. 코드
+4개의 공백 또는 하나의 탭으로 들여쓰기를 만나면 변환되기 시작하여 들여쓰지 않은 행을 만날때까지 변환이 계속된다.
+
+### 2.4.1. 들여쓰기
+```
+This is a normal paragraph:
+
+    This is a code block.
+    
+end code block.
+```
+
+실제로 적용해보면,
+
+적용예:
+
+*****
+This is a normal paragraph:
+
+    This is a code block.
+
+end code block.
+*****
+
+> 한줄 띄어쓰지 않으면 인식이 제대로 안되는 문제가 발생합니다.
+
+```
+This is a normal paragraph:
+    This is a code block.
+end code block.
+```
+
+적용예:
+
+*****
+This is a normal paragraph:
+    This is a code block.
+end code block.
+*****
+* 조심하시기 바랍니다.
+
 
 
 
