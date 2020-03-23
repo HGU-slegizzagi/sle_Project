@@ -166,7 +166,7 @@ __double underscores__
 > ```문장 중간에 사용할 경우에는 **띄어쓰기** 를 사용하는 것이 좋다.```   
 > 문장 중간에 사용할 경우에는 띄어쓰기를 사용하는 것이 좋다.
 
-## 2.8. 이미지
+## 2.7. 이미지
 ```
 ![Alt text](/path/to/img.jpg)
 ![Alt text](/path/to/img.jpg "Optional title")
@@ -186,5 +186,42 @@ __double underscores__
 <img src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0" width="40%" height="30%" title="%(비율) 크기 설정" alt="RubberDuck"></img>
 
 
+## 2.9. 줄바꿈
+3칸 이상 띄어쓰기(` `)를 하면 줄이 바뀐다.
+
+```
+* 줄 바꿈을 하기 위해서는 문장 마지막에서 3칸이상을 띄어쓰기해야 한다. 
+이렇게
+
+* 줄 바꿈을 하기 위해서는 문장 마지막에서 3칸이상을 띄어쓰기해야 한다.___\\ 띄어쓰기
+이렇게
+```
+
+* 줄 바꿈을 하기 위해서는 문장 마지막에서 3칸이상을 띄어쓰기해야 한다. 이렇게
+
+* 줄 바꿈을 하기 위해서는 문장 마지막에서 3칸이상을 띄어쓰기해야 한다.    \
+이렇게
+
+
+****
+
+
+
+
+# 4. 정리
+위의 내용들이면 충분히 원하는 글들을 작성할 수 있으리라 생각합니다.  쉽지 않을꺼 알지만
+
+
+
+## ○ 참고문서
+* [78 Tools for writing and previewing Markdown](http://mashable.com/2013/06/24/markdown-tools/)
+* [John gruber 마크다운 번역](http://nolboo.github.io/blog/2013/09/07/john-gruber-markdown/)
+* [깃허브 취향의 마크다운 번역](http://nolboo.github.io/blog/2014/03/25/github-flavored-markdown/)
+* [허니몬의 마크다운 작성법](http://www.slideshare.net/ihoneymon/ss-40575068)
+* [마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+* Notion.so(<https://www.notion.so/product>)
+* Atom(<https://atom.io/>)
+* Visual Studio Code(<https://code.visualstudio.com/>)
+* Notepad++(<https://notepad-plus-plus.org/>)
 
 
