@@ -174,7 +174,7 @@ __double underscores__
 ![슬리짜기 로고2](/src/slegizzagi_proejct_logo_2.png)
 ![슬기짜기 로고3](/src/slegizzagi_proejct_logo_3.png)
 
-사이즈 조절 기능은 없기 때문에 ```<img width="" height=""></img>```를 이용합니다. 옆 내용은 HTML내용인데, 마크다운에서는 HTML언어로 작성해도 실행됩니다.
+사이즈 조절 기능은 마크다운언어에는 없기 때문에 ```<img width="" height=""></img>```를 이용합니다.   밑의 내용은 HTML내용인데, 마크다운에서는 HTML언어로 작성해도 실행됩니다.
 
 예
 ```
@@ -209,9 +209,9 @@ __double underscores__
 
 
 # 4. 정리
-위의 내용들이면 충분히 원하는 글들을 작성할 수 있으리라 생각합니다.   
-학기가 바쁘고, 힘들지라도 다같이 파이팅 합시다.   
-****슬기짜기파이팅!****
+위의 내용들이면 충분히 원하는 글들을 충분히 작성할 수 있으리라 생각합니다.   
+학기가 바쁘고, 힘들지라도 다같이 파이팅!!!
+***Fail big Never give up and then Learn from it***
 
 
 
