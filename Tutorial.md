@@ -178,8 +178,8 @@ __double underscores__
 
 예
 ```
-<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="/path/to/img.jpg" width="200px" height="200px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="/path/to/img.jpg" width="20%" height="15%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 ```
 
 <img src=/src/slegizzagi_proejct_logo_2.png width="200px" height="200px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
@@ -211,7 +211,7 @@ __double underscores__
 # 4. 정리
 위의 내용들이면 충분히 원하는 글들을 작성할 수 있으리라 생각합니다.   
 학기가 바쁘고, 힘들지라도 다같이 파이팅 합시다.   
-**슬기짜기파이팅!**
+****슬기짜기파이팅!****
 
 
 
