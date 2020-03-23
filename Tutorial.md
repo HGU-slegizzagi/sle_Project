@@ -182,8 +182,8 @@ __double underscores__
 <img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 ```
 
-<img src=/src/slegizzagi_proejct_logo_2.png width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<img src=/src/slegizzagi_proejct_logo_3.png width="40%" height="30%" title="%(비율) 크기 설정" alt="RubberDuck"></img>
+<img src=/src/slegizzagi_proejct_logo_2.png width="200px" height="200px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src=/src/slegizzagi_proejct_logo_3.png width="20%" height="15%" title="%(비율) 크기 설정" alt="RubberDuck"></img>
 
 
 ## 2.9. 줄바꿈
