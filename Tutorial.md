@@ -27,7 +27,7 @@ Community로 사용하려고 합니다.!
 내용
 ```  
 한 줄 주석은 
-\`을 사용하면 됩니다.
+\`을 사용하면 됩니다.  
 ` 내용
 
 
@@ -138,7 +138,6 @@ This is a normal paragraph:
     This is a code block.
 end code block.
 *****
-* 조심하시기 바랍니다.
 
 
 
