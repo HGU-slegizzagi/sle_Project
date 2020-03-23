@@ -207,6 +207,8 @@ __double underscores__
 학기가 바쁘고, 힘들지라도 다같이 파이팅!!!
 ***Fail big Never give up and then Learn from it***
 
+# 4. Tip
+.md파일을 클릭해서 들어가보면 오른쪽 상단에 Raw라고 적혀있는 네모박스를 클릭해서 해당 .md파일의 Original Source Code를 볼 수 있습니다. 
 
 
 
