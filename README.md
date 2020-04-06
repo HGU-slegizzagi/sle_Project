@@ -26,21 +26,14 @@
 
 ## Registered Project
 
-### [Slegizzagi Tech Blog 개설](./SleTechBlog/README.md)
-* GitHub repository로 동아리가 운영 되는 현실이 안탑깝습니다....ㅠㅠ
-* React와 AWS를 사용해서 슬기짜기 동아리 한번 만들어보죠!!!
+### [개인 blog 정도는 있어야지](./Personal%Blog/README.md)
 
-### [Global Warming](./Global%20Warming)
+> * 참가자
+>   * J-Kyu
 
-* 지구가 뜨거워지고 있는 원인, 속도 그리고 결과 및 효과에 대해서 알아보는 것이 목표이다.
-* 기존의 신뢰도가 있는 data를 기반 우리가 만든 간단한 알고리즘을 통해 결과를 예측할 수 있는 **통계 툴**을 만들어보자.
-
-### 공모전
-
-* 하나의 System을 설계 합니다.
-* 설계된 System을 업그레이드 시켜 참가 할 수 있는 모든 공모전에 대하여 준비합니다.
-* [Project Syllabus를 작성해주세요](https://github.com/HGU-slegizzagi/20-1/blob/master/project/project_detail_format.md)
-
+* 나의 것들을 체계적으로 관리하고 공유할 수 있는 blog를 만들어보자
+* jekyll이나 hexo가 아닌 동적 web page....React JS로 시도해보자~!!!
+* 할 수 있다~~!!!!!
 
 ---
 ### [Markdown Tutorial](./MarkDownTutorial.md)
